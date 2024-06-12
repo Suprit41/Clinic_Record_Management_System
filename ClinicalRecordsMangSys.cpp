@@ -1,8 +1,9 @@
-#include <iostream>
-#include <fstream>
-#include <ctime>
-#include <iomanip>
-#include <conio.h> // For _getch()
+#include <bits/stdc++.h>
+// #include <iostream>
+// #include <fstream>
+// #include <ctime>
+// #include <iomanip>
+// #include <conio.h> // For _getch()
 using namespace std;
 
 class Patient {
